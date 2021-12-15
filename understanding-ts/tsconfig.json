@@ -108,11 +108,11 @@
     "src/objs-arrays-enums.ts",
     "src/union-aliases.ts",
     "src/functions.ts",
-    "src/analytics.ts",
     "src/bind.ts",
     "src/modernNotation.ts",
     "src/classes.ts",
-    "src/interfaces.ts"
+    "src/interfaces.ts",
+    "src/advancedTypes.ts"
   ]
 
 }
